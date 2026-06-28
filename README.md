@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Nagasai</h1>
-<h3 align="center">A passionate webdeveloper from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai4coding&label=Profile%20views&color=0e75b6&style=flat" alt="sai4coding" /> </p>
 
-- 🌱 I’m currently learning **Django, mongodb**
+- 🌱 I’m currently learning **Spring boot , Database Internals**
 
 - 👯 I’m looking to collaborate on **creative projects**
 
-- 📫 How to reach me **nagaprog@gmail.com**
+- 📫 How to reach me **nagasaiisukapalli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
